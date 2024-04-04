@@ -26,6 +26,10 @@ yarn add react framer-motion
 npm run dev
 
 ```
+```
+yarn dev
+
+```
 
 ## Usage
 
