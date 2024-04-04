@@ -22,6 +22,9 @@ yarn add react framer-motion
 
 ```
 
+## Start The Dev Server
+
+
 ```
 npm run dev
 
