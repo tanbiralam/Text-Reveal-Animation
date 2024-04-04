@@ -2,7 +2,6 @@
 
 ![Text Reveal Animation](./src/assets/animation.gif)
 
-
 This repository contains code for implementing a text reveal animation using React and Framer Motion library. The animation gradually reveals each character of the text, creating an elegant effect that enhances the visual appeal of textual content.
 
 ## Installation
@@ -23,6 +22,11 @@ yarn add react framer-motion
 
 ```
 
+```
+npm run dev
+
+```
+
 ## Usage
 
 To implement the text reveal animation in your React project:
@@ -35,9 +39,7 @@ To implement the text reveal animation in your React project:
 6. Adjust animation properties such as duration, stagger, etc., according to your preference.
 7. Customize the styles as needed.
 
-
 ## Credits
 
 - Special thanks to the Framer Motion library developers for providing an intuitive and powerful animation solution for React applications.
 - Any additional resources or inspirations used in creating this animation should be credited accordingly.
-
