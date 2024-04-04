@@ -11,9 +11,9 @@ To use this animation in your project, follow these steps:
 1. Clone the repository or copy the necessary files into your project directory.
 2. Make sure you have React and Framer Motion library installed in your project. If not, you can install them using npm or yarn:
 
-   ```bash
-   npm install react framer-motion
-   ```
+```bash
+npm install react framer-motion
+```
 
 or
 
@@ -39,7 +39,4 @@ To implement the text reveal animation in your React project:
 6. Adjust animation properties such as duration, stagger, etc., according to your preference.
 7. Customize the styles as needed.
 
-## Credits
 
-- Special thanks to the Framer Motion library developers for providing an intuitive and powerful animation solution for React applications.
-- Any additional resources or inspirations used in creating this animation should be credited accordingly.
