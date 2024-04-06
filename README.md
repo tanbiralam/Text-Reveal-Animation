@@ -29,6 +29,9 @@ yarn add react framer-motion
 npm run dev
 
 ```
+
+or
+
 ```
 yarn dev
 
